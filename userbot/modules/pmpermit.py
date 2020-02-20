@@ -17,9 +17,8 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = ("`Welcome, You are a wonderful person with a wonderful view of life.`\n\n"
-                  "`Your companionship is always an opportunity But Sed This line is not for you.`"
-                  "`So just tell why you are here ?`\n\n"
-                  "`Your message will be responded when I'm free,Don't sit here whole day coz there are lots of pending messages😶‚`")
+                  "`Your companionship is always an opportunity But Sed This line is not for you.`\n\n"
+                  "`Your message will be responded when I'm free,Don't sit here whole day coz there are lots of pending messages😶‚`\n\n")
 # =================================================================
 
 
