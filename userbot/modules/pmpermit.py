@@ -16,10 +16,10 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Welcome, You are a wonderful person with a wonderful view of life.`\n\n"
-                  "`Your companionship is always an opportunity But Sed This line is not for you.`"
+UNAPPROVED_MSG = ("`Bleep bloop. This is a bot! Dont fret.`\n\n"
+                  "`My master hasn't approved you to PM. Please wait for my master to look in, he mostly approves PMs.`"
                   "`So just tell why you are here ?`\n\n"
-                  "`Your message will be responded when I'm free,Don't sit here whole day coz there are lots of pending messages😶‚`")
+                  "As far as I know, he doesn't usually approve retards though‚`")
 # =================================================================
 
 
